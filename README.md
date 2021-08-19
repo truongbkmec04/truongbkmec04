@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mechatronics
 - 🌱 I’m currently learning Embedded Software in STM32
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me truongbkmec04@gmail.com
+- 📫 How to reach me https://linktr.ee/truongbkmec04
 
 <!---
 truongbkmec04/truongbkmec04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
