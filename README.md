@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @truongbkmec04
 - 👀 I’m interested in Mechatronics
-- 🌱 I’m currently learning Embedded Software in STM32
+- 🌱 I’m currently learning Embedded Software 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://linktr.ee/truongbkmec04
 
